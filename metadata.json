@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring Perencanaan Pasokan & Pengadaan Batubara",
+  "description": "Sistem monitoring perencanaan pasokan tahunan batubara, kepatuhan penugasan Ditjen Minerba, proses pengadaan, dan pemenuhan per PLTU dengan sinkronisasi Web dan Excel dua arah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
